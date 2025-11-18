@@ -100,9 +100,6 @@ Add visualization dashboards for better user insights.
 References
 
 Md. Atiqur Rahman, Israt Jahan, et al., “Improving Sleep Disorder Diagnosis Through Optimized Machine Learning Approaches,” IEEE Access, 2025.
+D. R. Sahu and R. K. Gupta, "Machine Learning Techniques for Sleep Disorder Classification and Sleep Quality 
 
-Scikit-learn documentation: https://scikit-learn.org/stable/
-
-Streamlit documentation: https://docs.streamlit.io/
-
-Sleep Health and Lifestyle Dataset: Your dataset source link if available
+Assessment," 2024 Asian Conference on Intelligent Technologies (ACOIT), KOLAR, India, 
